@@ -1,0 +1,180 @@
+{
+ "stations_total": 125,
+ "stations_open": 78,
+ "stations_under_construction": 47,
+ "stations_unknown": 0,
+ "pipeline_projects_total": 2314,
+ "pipeline_units_near_any_station_800m": 1238341,
+ "units_near_open_stations": 796692,
+ "units_near_future_stations": 441649,
+ "top_stations_by_units": [
+  {
+   "name": "Wellesley Station",
+   "units": 43575,
+   "projects": 71
+  },
+  {
+   "name": "College Station",
+   "units": 40353,
+   "projects": 70
+  },
+  {
+   "name": "TMU Station",
+   "units": 38285,
+   "projects": 79
+  },
+  {
+   "name": "Eglinton Station",
+   "units": 37839,
+   "projects": 71
+  },
+  {
+   "name": "Queen Station",
+   "units": 36781,
+   "projects": 86
+  },
+  {
+   "name": "Front-Spadina",
+   "units": 36313,
+   "projects": 90
+  },
+  {
+   "name": "Corktown",
+   "units": 34038,
+   "projects": 71
+  },
+  {
+   "name": "Bloor Station",
+   "units": 32939,
+   "projects": 62
+  },
+  {
+   "name": "St Andrew Station",
+   "units": 31802,
+   "projects": 74
+  },
+  {
+   "name": "Osgoode Station",
+   "units": 31633,
+   "projects": 70
+  },
+  {
+   "name": "Moss Park",
+   "units": 29899,
+   "projects": 77
+  },
+  {
+   "name": "Queen's Park Station",
+   "units": 29705,
+   "projects": 50
+  }
+ ],
+ "before_after_sample": [
+  {
+   "name": "Sheppard West Station",
+   "before": {
+    "projects": 0,
+    "units": 0
+   },
+   "after": {
+    "projects": 6,
+    "units": 3042
+   }
+  },
+  {
+   "name": "Downsview Park Station",
+   "before": {
+    "projects": 2,
+    "units": 205
+   },
+   "after": {
+    "projects": 1,
+    "units": 350
+   }
+  },
+  {
+   "name": "Finch West Station",
+   "before": {
+    "projects": 0,
+    "units": 0
+   },
+   "after": {
+    "projects": 4,
+    "units": 3593
+   }
+  },
+  {
+   "name": "York University Station",
+   "before": {
+    "projects": 0,
+    "units": 0
+   },
+   "after": {
+    "projects": 5,
+    "units": 1009
+   }
+  },
+  {
+   "name": "Finch Station",
+   "before": {
+    "projects": 0,
+    "units": 0
+   },
+   "after": {
+    "projects": 23,
+    "units": 10836
+   }
+  }
+ ],
+ "total_pipeline_units": 890247,
+ "units_within_800m_open_station_dedup": 365770,
+ "units_within_800m_open_station_dedup_pct": 41.1,
+ "projects_within_800m_open_station_dedup": 860,
+ "units_near_open_by_status": {
+  "active": 177005,
+  "proposed": 128255,
+  "built": 60510
+ },
+ "top_future_stations": [
+  {
+   "name": "Front-Spadina",
+   "units": 36313,
+   "projects": 90
+  },
+  {
+   "name": "Corktown",
+   "units": 34038,
+   "projects": 71
+  },
+  {
+   "name": "Moss Park",
+   "units": 29899,
+   "projects": 77
+  },
+  {
+   "name": "Hakimi Lebovic",
+   "units": 28313,
+   "projects": 18
+  },
+  {
+   "name": "Mount Pleasant",
+   "units": 26387,
+   "projects": 53
+  },
+  {
+   "name": "Pharmacy (Eglinton)",
+   "units": 23931,
+   "projects": 17
+  },
+  {
+   "name": "King-Bathurst",
+   "units": 23723,
+   "projects": 78
+  },
+  {
+   "name": "Aga Khan Park & Museum",
+   "units": 21739,
+   "projects": 14
+  }
+ ]
+}

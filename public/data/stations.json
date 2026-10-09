@@ -1,0 +1,1755 @@
+[
+ {
+  "id": "ttc-sheppard-west",
+  "name": "Sheppard West Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.749675,
+  "lon": -79.462387,
+  "opening_date": "1996-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-downsview-park",
+  "name": "Downsview Park Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.753311,
+  "lon": -79.478693,
+  "opening_date": "2017-12-17",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-finch-west",
+  "name": "Finch West Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.764855,
+  "lon": -79.491118,
+  "opening_date": "2017-12-17",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-york-university",
+  "name": "York University Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.774097,
+  "lon": -79.499888,
+  "opening_date": "2017-12-17",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-pioneer-village",
+  "name": "Pioneer Village Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.776746,
+  "lon": -79.509353,
+  "opening_date": "2017-12-17",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-highway-407",
+  "name": "Highway 407 Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.783359,
+  "lon": -79.523454,
+  "opening_date": "2017-12-17",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-vaughan-metropolitan-centre",
+  "name": "Vaughan Metropolitan Centre Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.794021,
+  "lon": -79.527906,
+  "opening_date": "2017-12-17",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-finch",
+  "name": "Finch Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.780497,
+  "lon": -79.415492,
+  "opening_date": "1974-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-north-york-centre",
+  "name": "North York Centre Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.767947,
+  "lon": -79.412542,
+  "opening_date": "1987-06-18",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-sheppard-yonge",
+  "name": "Sheppard-Yonge Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1",
+   "Line 4"
+  ],
+  "lat": 43.761285,
+  "lon": -79.410517,
+  "opening_date": "1974-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-york-mills",
+  "name": "York Mills Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.743848,
+  "lon": -79.406091,
+  "opening_date": "1973-03-31",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-lawrence",
+  "name": "Lawrence Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.725948,
+  "lon": -79.40239,
+  "opening_date": "1973-03-31",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-eglinton",
+  "name": "Eglinton Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.705598,
+  "lon": -79.39864,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-davisville",
+  "name": "Davisville Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.697648,
+  "lon": -79.39709,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-st-clair",
+  "name": "St Clair Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.688049,
+  "lon": -79.393289,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-summerhill",
+  "name": "Summerhill Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.682699,
+  "lon": -79.390989,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-rosedale",
+  "name": "Rosedale Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.676649,
+  "lon": -79.388339,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-bloor",
+  "name": "Bloor Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.670547,
+  "lon": -79.385654,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-wellesley",
+  "name": "Wellesley Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.665549,
+  "lon": -79.383638,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-college",
+  "name": "College Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.660799,
+  "lon": -79.382888,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-tmu",
+  "name": "TMU Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.656549,
+  "lon": -79.380988,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-queen",
+  "name": "Queen Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.652749,
+  "lon": -79.379388,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-king",
+  "name": "King Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.649049,
+  "lon": -79.377888,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-union",
+  "name": "Union Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.645699,
+  "lon": -79.380588,
+  "opening_date": "1954-03-30",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-st-andrew",
+  "name": "St Andrew Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.647649,
+  "lon": -79.384788,
+  "opening_date": "1963-02-28",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-osgoode",
+  "name": "Osgoode Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.651099,
+  "lon": -79.386688,
+  "opening_date": "1963-02-28",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-st-patrick",
+  "name": "St Patrick Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.654649,
+  "lon": -79.388188,
+  "opening_date": "1963-02-28",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-queens-park",
+  "name": "Queen's Park Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.659899,
+  "lon": -79.390489,
+  "opening_date": "1963-02-28",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-museum",
+  "name": "Museum Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.666599,
+  "lon": -79.393189,
+  "opening_date": "1963-02-28",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-st-george",
+  "name": "St George Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1",
+   "Line 2"
+  ],
+  "lat": 43.668399,
+  "lon": -79.398814,
+  "opening_date": "1963-02-28",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-spadina",
+  "name": "Spadina Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1",
+   "Line 2"
+  ],
+  "lat": 43.668374,
+  "lon": -79.404889,
+  "opening_date": "1978-01-27",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-dupont",
+  "name": "Dupont Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.674349,
+  "lon": -79.40689,
+  "opening_date": "1978-01-27",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-st-clair-west",
+  "name": "St Clair West Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.684548,
+  "lon": -79.41564,
+  "opening_date": "1978-01-27",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-cedarvale",
+  "name": "Cedarvale Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.699998,
+  "lon": -79.436491,
+  "opening_date": "1978-01-27",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-glencairn",
+  "name": "Glencairn Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.708598,
+  "lon": -79.440541,
+  "opening_date": "1978-01-27",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-lawrence-west",
+  "name": "Lawrence West Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.715266,
+  "lon": -79.443915,
+  "opening_date": "1978-01-27",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-yorkdale",
+  "name": "Yorkdale Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.724598,
+  "lon": -79.447492,
+  "opening_date": "1978-01-27",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-wilson",
+  "name": "Wilson Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 1"
+  ],
+  "lat": 43.734448,
+  "lon": -79.450042,
+  "opening_date": "1978-01-27",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-greenwood",
+  "name": "Greenwood Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.682699,
+  "lon": -79.330837,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-coxwell",
+  "name": "Coxwell Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.684399,
+  "lon": -79.322836,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-woodbine",
+  "name": "Woodbine Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.686499,
+  "lon": -79.313136,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-main-street",
+  "name": "Main Street Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.689099,
+  "lon": -79.301536,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-victoria-park",
+  "name": "Victoria Park Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.694899,
+  "lon": -79.288685,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-warden",
+  "name": "Warden Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.711549,
+  "lon": -79.278935,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-kennedy",
+  "name": "Kennedy Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.732318,
+  "lon": -79.264252,
+  "opening_date": "1980-11-22",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-kipling",
+  "name": "Kipling Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.63752,
+  "lon": -79.535793,
+  "opening_date": "1980-11-22",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-islington",
+  "name": "Islington Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.645398,
+  "lon": -79.524144,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-royal-york",
+  "name": "Royal York Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.648448,
+  "lon": -79.509593,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-old-mill",
+  "name": "Old Mill Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.649748,
+  "lon": -79.494142,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-jane",
+  "name": "Jane Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.649949,
+  "lon": -79.483742,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-runnymede",
+  "name": "Runnymede Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.651899,
+  "lon": -79.475842,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-high-park",
+  "name": "High Park Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.653699,
+  "lon": -79.467841,
+  "opening_date": "1968-05-10",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-keele",
+  "name": "Keele Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.655499,
+  "lon": -79.459541,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-dundas-west",
+  "name": "Dundas West Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.657299,
+  "lon": -79.451941,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-lansdowne",
+  "name": "Lansdowne Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.65928,
+  "lon": -79.442467,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-dufferin",
+  "name": "Dufferin Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.660699,
+  "lon": -79.43479,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-ossington",
+  "name": "Ossington Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.662199,
+  "lon": -79.42699,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-christie",
+  "name": "Christie Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.664299,
+  "lon": -79.41814,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-bathurst",
+  "name": "Bathurst Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.665799,
+  "lon": -79.41144,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-bay",
+  "name": "Bay Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.669999,
+  "lon": -79.390939,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-yonge",
+  "name": "Yonge Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.671023,
+  "lon": -79.386372,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-sherbourne",
+  "name": "Sherbourne Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.672139,
+  "lon": -79.376167,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-castle-frank",
+  "name": "Castle Frank Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.673799,
+  "lon": -79.368938,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-broadview",
+  "name": "Broadview Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.676699,
+  "lon": -79.358838,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-chester",
+  "name": "Chester Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.678296,
+  "lon": -79.352519,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-pape",
+  "name": "Pape Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.679799,
+  "lon": -79.344937,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-donlands",
+  "name": "Donlands Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 2"
+  ],
+  "lat": 43.681049,
+  "lon": -79.338337,
+  "opening_date": "1966-02-25",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-bayview",
+  "name": "Bayview Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 4"
+  ],
+  "lat": 43.766911,
+  "lon": -79.386717,
+  "opening_date": "2002-11-22",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-bessarion",
+  "name": "Bessarion Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 4"
+  ],
+  "lat": 43.769249,
+  "lon": -79.376328,
+  "opening_date": "2002-11-22",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-leslie",
+  "name": "Leslie Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 4"
+  ],
+  "lat": 43.771298,
+  "lon": -79.36589,
+  "opening_date": "2002-11-22",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "ttc-don-mills",
+  "name": "Don Mills Station",
+  "agency": "TTC",
+  "lines": [
+   "Line 4"
+  ],
+  "lat": 43.775397,
+  "lon": -79.346386,
+  "opening_date": "2002-11-22",
+  "date_precision": "exact",
+  "status": "open",
+  "coord_source": "TTC GTFS"
+ },
+ {
+  "id": "future-tobermory",
+  "name": "Tobermory",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.759385,
+  "lon": -79.510938,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-oconnor",
+  "name": "O'Connor",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.723793,
+  "lon": -79.303418,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-pharmacy-(eglinton)",
+  "name": "Pharmacy (Eglinton)",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.725307,
+  "lon": -79.297016,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-hakimi-lebovic",
+  "name": "Hakimi Lebovic",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.725004,
+  "lon": -79.293424,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-golden-mile",
+  "name": "Golden Mile",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.729341,
+  "lon": -79.284909,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-birchmount-(eglinton)",
+  "name": "Birchmount (Eglinton)",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.728473,
+  "lon": -79.274981,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-rowntree-mills",
+  "name": "Rowntree Mills",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.745917,
+  "lon": -79.567766,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-mount-olive",
+  "name": "Mount Olive",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.745015,
+  "lon": -79.57935,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-pearldale",
+  "name": "Pearldale",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.748859,
+  "lon": -79.561695,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-humber-college",
+  "name": "Humber College",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.726168,
+  "lon": -79.603717,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-martin-grove",
+  "name": "Martin Grove",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.735528,
+  "lon": -79.59014,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-leaside",
+  "name": "Leaside",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.709253,
+  "lon": -79.374971,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-mount-pleasant",
+  "name": "Mount Pleasant",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.709359,
+  "lon": -79.388934,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-sunnybrook-park",
+  "name": "Sunnybrook Park",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.716308,
+  "lon": -79.353823,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-aga-khan-park-and-museum",
+  "name": "Aga Khan Park & Museum",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.722408,
+  "lon": -79.334133,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-wynford",
+  "name": "Wynford",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.726814,
+  "lon": -79.326666,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-ionview",
+  "name": "Ionview",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.728956,
+  "lon": -79.27387,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-sloane",
+  "name": "Sloane",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.728458,
+  "lon": -79.314118,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-laird",
+  "name": "Laird",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.714287,
+  "lon": -79.359633,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-forest-hill",
+  "name": "Forest Hill",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.702224,
+  "lon": -79.425503,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-park-lawn",
+  "name": "Park Lawn",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.624454,
+  "lon": -79.483181,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "go-mimico",
+  "name": "Mimico",
+  "agency": "GO Transit",
+  "lines": [
+   "GO"
+  ],
+  "lat": 43.616154,
+  "lon": -79.496941,
+  "opening_date": "1967",
+  "date_precision": "approximate-year",
+  "status": "open",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-front-spadina",
+  "name": "Front-Spadina",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.641576,
+  "lon": -79.393603,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "go-eglinton-go",
+  "name": "Eglinton GO",
+  "agency": "GO Transit",
+  "lines": [
+   "GO"
+  ],
+  "lat": 43.739581,
+  "lon": -79.232305,
+  "opening_date": "1967",
+  "date_precision": "approximate-year",
+  "status": "open",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "go-danforth-go",
+  "name": "Danforth GO",
+  "agency": "GO Transit",
+  "lines": [
+   "GO"
+  ],
+  "lat": 43.684008,
+  "lon": -79.299757,
+  "opening_date": "1967",
+  "date_precision": "approximate-year",
+  "status": "open",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "go-bloor-go",
+  "name": "Bloor GO",
+  "agency": "GO Transit",
+  "lines": [
+   "GO"
+  ],
+  "lat": 43.657585,
+  "lon": -79.454026,
+  "opening_date": "1974",
+  "date_precision": "approximate-year",
+  "status": "open",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "go-bloor-lansdowne-go",
+  "name": "Bloor-Lansdowne GO",
+  "agency": "GO Transit",
+  "lines": [
+   "GO"
+  ],
+  "lat": 43.656729,
+  "lon": -79.442605,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-st.-clair-old-weston",
+  "name": "St. Clair-Old Weston",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.673713,
+  "lon": -79.466349,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-albion",
+  "name": "Albion",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.74052,
+  "lon": -79.589947,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-stevenson",
+  "name": "Stevenson",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.745595,
+  "lon": -79.589725,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-westmore",
+  "name": "Westmore",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.736353,
+  "lon": -79.601605,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-duncanwoods",
+  "name": "Duncanwoods",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.749337,
+  "lon": -79.558524,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-milvan-rumike",
+  "name": "Milvan Rumike",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.748573,
+  "lon": -79.552738,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-emery",
+  "name": "Emery",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.753951,
+  "lon": -79.545783,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-signet-arrow",
+  "name": "Signet Arrow",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.748958,
+  "lon": -79.536176,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-norfinch-oakdale",
+  "name": "Norfinch Oakdale",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.756708,
+  "lon": -79.522808,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-jane-and-finch",
+  "name": "Jane and Finch",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.758702,
+  "lon": -79.51726,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-driftwood",
+  "name": "Driftwood",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.760062,
+  "lon": -79.513173,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-caledonia",
+  "name": "Caledonia",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.691876,
+  "lon": -79.462451,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-fairbank",
+  "name": "Fairbank",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.693673,
+  "lon": -79.449662,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-oakwood",
+  "name": "Oakwood",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.696005,
+  "lon": -79.442227,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-corktown",
+  "name": "Corktown",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.650205,
+  "lon": -79.363807,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-moss-park",
+  "name": "Moss Park",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.656003,
+  "lon": -79.367538,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-king-bathurst",
+  "name": "King-Bathurst",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.645171,
+  "lon": -79.401445,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-leslieville",
+  "name": "Leslieville",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.659042,
+  "lon": -79.348075,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-cosburn",
+  "name": "Cosburn",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.689227,
+  "lon": -79.349303,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-thorncliffe-park",
+  "name": "Thorncliffe Park",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.703722,
+  "lon": -79.344419,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-flemingdon-park",
+  "name": "Flemingdon Park",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.715425,
+  "lon": -79.332643,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-queen-spadina",
+  "name": "Queen-Spadina",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.649021,
+  "lon": -79.399343,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "go-agincourt",
+  "name": "Agincourt",
+  "agency": "GO Transit",
+  "lines": [
+   "GO"
+  ],
+  "lat": 43.782977,
+  "lon": -79.284948,
+  "opening_date": "1982",
+  "date_precision": "approximate-year",
+  "status": "open",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "go-etobicoke-north",
+  "name": "Etobicoke North",
+  "agency": "GO Transit",
+  "lines": [
+   "GO"
+  ],
+  "lat": 43.70587,
+  "lon": -79.563445,
+  "opening_date": "1974",
+  "date_precision": "approximate-year",
+  "status": "open",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "go-weston",
+  "name": "Weston",
+  "agency": "GO Transit",
+  "lines": [
+   "GO"
+  ],
+  "lat": 43.698896,
+  "lon": -79.515012,
+  "opening_date": "1974",
+  "date_precision": "approximate-year",
+  "status": "open",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-king-liberty",
+  "name": "King-Liberty",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.64129,
+  "lon": -79.419226,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ },
+ {
+  "id": "future-keelesdale",
+  "name": "Keelesdale",
+  "agency": "TTC/Metrolinx",
+  "lines": [
+   "Under construction"
+  ],
+  "lat": 43.693149,
+  "lon": -79.474766,
+  "opening_date": null,
+  "date_precision": "missing",
+  "status": "under_construction",
+  "coord_source": "MTSA centroid (calibrated)"
+ }
+]
