@@ -8,10 +8,41 @@ import "./globals.css";
 import { LangProvider } from "@/i18n";
 import { PosthogProvider } from "../components/PosthogProvider";
 
+const SITE_URL = "https://supply.canada.nshipyard.com";
+const TITLE = "Canada Transit Supply: what got built near the stations";
+const DESCRIPTION =
+  "125 Toronto rail stations joined to 2,314 development projects within 800 metres. 41.1% of pipeline homes sit near an open station; Finch West went from 0 to 4 projects after its 2017 opening. Station explorer, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.";
+const SHARE_DESCRIPTION =
+  "125 Toronto rail stations joined to 2,314 development projects within 800 metres. 41.1% of pipeline homes sit near an open station; Finch West went from 0 to 4 projects after its 2017 opening.";
+
 export const metadata: Metadata = {
-  title: "Canada Transit Supply: what got built near the stations",
-  description:
-    "125 Toronto rail stations joined to 2,314 development projects within 800 metres. 41.1% of pipeline homes sit near an open station; Finch West went from 0 to 4 projects after its 2017 opening. Station explorer, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
+  metadataBase: new URL(SITE_URL),
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: {
+    canonical: `${SITE_URL}/`,
+  },
+  openGraph: {
+    title: TITLE,
+    description: SHARE_DESCRIPTION,
+    url: `${SITE_URL}/`,
+    siteName: "Canada Transit Supply",
+    type: "website",
+    images: [
+      {
+        url: `${SITE_URL}/og-image.png`,
+        width: 1200,
+        height: 630,
+        alt: TITLE,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: TITLE,
+    description: SHARE_DESCRIPTION,
+    images: [`${SITE_URL}/og-image.png`],
+  },
   icons: {
     icon: [
       { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
